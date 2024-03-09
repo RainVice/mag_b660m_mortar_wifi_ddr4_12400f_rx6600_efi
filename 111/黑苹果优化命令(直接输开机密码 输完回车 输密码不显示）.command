@@ -1,0 +1,1 @@
+sh -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/daliansky/morefine-S500-Hackintosh/main/Tools/morefine-s500.sh)"
